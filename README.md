@@ -7,11 +7,18 @@ Docker Postgres
 docker version 
 
 #console docker
+
+
 docker pull postgres:10.9-alpine
+
 docker images
+
 docker run -d --name prueba -e POSTGRES_PASSWORD=prueba -p 5432:5432 postgres:10.9-alpine
+
 docker ps -a
+
 docker ps 
+
 docker start id
 
 #install 
