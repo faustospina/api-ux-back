@@ -17,7 +17,7 @@ docker start id
 #install 
 pgadmin4-4.29-x64
 
-#In the folder installation images are the images for the configuration of PgAdmin 4
+#In the folder installation (imagesInstalationPgAdmin) images are the images for the configuration of PgAdmin 4
 
 #create table
 
